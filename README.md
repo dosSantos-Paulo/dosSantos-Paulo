@@ -11,7 +11,7 @@ If you will, can call me Léo
 
 🌱 - I have a little over 2 years off experience with android technology and more than 10 years of experience with marketing, communication, teamwork, sales and customer service.
 
-If you wanna to learn more about my soft and hard skills I prepared the list below
+>
 
 🇧🇷
 
@@ -26,43 +26,29 @@ Mas se quiser, pode me chamar de Léo.
 
 🌱 - Eu tenho um pouco mais de 2 anos de experiência com desenvolvimento Android e mais de 10 anos com experiência em marketing, comunicação, trabalho em equipe, vendas e atendimento ao público
 
-Se você quiser saber mais das minhas qualificações eu preparei uma lista abaixo
-
-|| Soft Skills ||
-- Communication
-- Teamwork
-- Negotiation
-- Proactive
-- Problem solving
-- I love to inspire the others
-
-|| Hard Skills ||
-- Scrum
-- Kanban
-- Design Thinking
-- Native Android Development
-- Kotlin
-- Java
-- JavaScript and web development
-- API and Network communication
-- Dependency Injection
-- Ansy codes
-- Custom animations
-- Google Material
-- CI/CD
-
-|| Learning ||
-- Swift and iOS Development
-- Flutter
-- Internet of things 
-- Artificial Inteligence 
+>
+## [Portfolio](/portifolio/PORTIFOLIO.md)
 
 🇺🇸
 
-I'm look forward to answer any questions.
-Let's talk ?
+Can you see my portfolio clicked in [here!](/portifolio/PORTIFOLIO.md)
 
 🇧🇷
 
-Eu estou ansioso para responder a quaisquer perguntas.
-Vamos conversar ?
+Você pode ver meu portifólio clicando [aqui!](/portifolio//PORTIFOLIO.md)
+
+>
+
+## Languages and frameworks
+
+![75%](https://progress-bar.dev/75) - Kotlin - 
+
+![60%](https://progress-bar.dev/60) - Java - 
+
+![35%](https://progress-bar.dev/35) - Swift - 
+
+![50%](https://progress-bar.dev/50) - JavaScript - 
+
+![35%](https://progress-bar.dev/35) - SpringBoot - 
+
+![35%](https://progress-bar.dev/35) - Node - 
