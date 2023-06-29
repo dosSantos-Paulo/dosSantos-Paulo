@@ -1,14 +1,7 @@
 # Portfolio
 >
 
-🇺🇸
-
-Here is my personal portfolio. Recalling the most part of my job is in private roles, therefore, I can't share it here!
-
-
-🇧🇷
-
-Aqui está o meu portifólio pessoal. Lembrando que a maior parte do meu trabalho foram em projetos privados, portanto, eu não posso compartilha-los aqui!
+Here is my personal study portfolio.
 
 >
 
@@ -37,13 +30,6 @@ Aqui está o meu portifólio pessoal. Lembrando que a maior parte do meu trabalh
 
 >
 
-🇺🇸
-
 Can you see another projects in Java, javaScript, Swift, Objective-C and another tests in my repository. Just click [here!](https://github.com/dosSantos-Paulo?tab=repositories)
-
-
-🇧🇷
-
-Você pode ser outros projetos em Java, javaScript, Swift, Objective-Ce outros testes no meu repositório. Basta clicar [aqui!](https://github.com/dosSantos-Paulo?tab=repositories)
 
 >
